@@ -1,0 +1,28 @@
+name: TestJan
+favicon: null
+layout_spectrum: 0.9721511048264802
+typography_spectrum: 0.06036573019810021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2982301202137023
+  lightness: 0.35021738591603935
+  saturation: 0.36939296405762434
+  rhythmicContrast: 0.8654730725102127
+purpose: []
